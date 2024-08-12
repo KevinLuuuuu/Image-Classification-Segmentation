@@ -1,4 +1,6 @@
+# Image Classification & Image Segmentation
 
+DLCV-Fall-2022-HW1  
 Please click [this link](https://docs.google.com/presentation/d/1lXkZrUrV209kMSGn6Lg37rno0Kp_zbdyxOl0K8F9U_E/edit?usp=sharing) to view the slides of HW1
 
 # Usage
